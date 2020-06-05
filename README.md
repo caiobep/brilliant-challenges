@@ -6,8 +6,8 @@ This repo contains personal code that I write in order to answer [Brilliant](htt
 
 ### Warning
 
-- This project is not intended to be used as program.
-- This project does not solve any specific problems.
-- This might not make sense if you don't have the context on the specific course
+- 🚫This project is not intended to be used as program.
+- 🚫This project does not solve any specific problems.
+- 🚫This might not make sense if you don't have the context on the specific course
 - [x] This project is a notebook
 - [x] This project will help you if you get stuck in some problem at [Brilliant](https://brilliant.org/).
